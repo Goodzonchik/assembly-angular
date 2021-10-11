@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "assembly-angular"
+  "defaultProject": "assembly-angular",
+  "cli": {
+    "analytics": false
+  }
 }
